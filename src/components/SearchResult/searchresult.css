@@ -1,0 +1,10 @@
+.main-box {
+    width: 90%;
+    max-width: 940px !important;
+}
+.link-box:hover {
+    cursor: pointer;
+}
+.link-box:hover > .title{
+    text-decoration: underline;
+}
